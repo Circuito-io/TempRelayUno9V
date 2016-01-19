@@ -14,7 +14,7 @@ You can also like circuito.io on Facebook at: https://www.facebook.com/circuito.
 
 How to read this repository
 ---------------------------
-You are here because you ised circuito.io and asked for a circuit and code sample for your project.
+You are here because you used circuito.io and asked for a circuit and code sample for your project.
 This is your project folder, you'll find here:
 * bom.txt - all the parts used in designing the circuit - your chosen parts & any additionals that may be required for the circuit to work.
 * firmware folder - includes all code need to operate the i/o devices using the micro-controller. firmware.ino is the main logic file.
